@@ -1,5 +1,4 @@
 <h1 align="center"><b>Hi , I'm Carlos </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+en+Ciberseguridad;Analista+Programador;Dreams+=+Full+Stack+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
@@ -18,6 +17,9 @@ I-am-cabecera@github
 🚩 Passionate about development and solving complex problems, I work well under pressure  
 💖 I enjoy challenges that push me to learn new technologies constantly  
 🎮 Hobbies: video games, console emulators, editing and customizing emulators
+
+cuenta secundaria: https://github.com/cigna26
+
 ```
 <hr>
 
